@@ -21,7 +21,7 @@
 
 ### Studying in this moment:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### LeetCode
 [![LeetCode user alexlsilva7](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Falexlsilva7&logo=leetcode&logoColor=yellow)](https://leetcode.com/alexlsilva7/)
