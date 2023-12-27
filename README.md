@@ -24,8 +24,8 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ### Studying in this moment:
-![UX](https://img.shields.io/badge/UX-022348?style=for-the-badge&logo=ux&logoColor=white)&nbsp;![UI](https://img.shields.io/badge/UI-F29030?style=for-the-badge&logo=ui&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### LeetCode
 [![LeetCode user alexlsilva7](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Falexlsilva7&logo=leetcode&logoColor=yellow)](https://leetcode.com/alexlsilva7/)
